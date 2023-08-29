@@ -21,7 +21,7 @@ export default function NavBar() {
     <Navbar bg="dark" expand="lg" variant="dark">
       <Container>
         <Navbar.Brand as={Link} href="/">
-          IMAGE GALLERY
+          IMAGE GALLERYS
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
